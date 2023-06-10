@@ -8,12 +8,12 @@
   <a href="https://leetcode.com/Priyam_Jain1/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
     </a>
-  <a href="https://leetcode.com/Priyam_Jain1/">
+  <a href="https://www.instagram.com/_priyam_jain/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyam-jain123&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=priyam-jain-2002&style=flat-square&color=blue" alt=""/>
   </div>
 
 ---
